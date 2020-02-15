@@ -1,0 +1,37 @@
+.container {
+    width: 1024px;
+}
+
+.centered {
+    margin: 0 auto;
+}
+
+.photo {
+    display: block;
+    margin-bottom: 10px;
+    border-radius: 50%;
+}
+
+.header {
+    margin-top: 50px;
+    margin-bottom: 24px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.contacts {
+    display: block;
+    text-align: center;
+    line-height: 20px;
+}
+
+.section-header {
+    margin-bottom: 6px;
+    font-size: 20px;
+}
+
+.details {
+    display: block;
+    padding-left: 16px;
+    margin-bottom: 14px;
+}
